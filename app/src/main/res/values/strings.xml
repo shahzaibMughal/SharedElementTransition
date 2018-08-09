@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared Element Transition</string>
+    <string name="androidImage">androidImage</string>
+    <string name="adbImage">adbImage</string>
+</resources>
